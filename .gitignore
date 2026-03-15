@@ -208,3 +208,6 @@ __marimo__/
 
 # Omit secrets file
 secrets.env
+
+# Ignore video files
+assets/
