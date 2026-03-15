@@ -2,7 +2,7 @@
 
 *real-time protection for real conversations.*
 
-[![watch the demo](https://img.youtube.com/vi/1PMnj42HxwY/maxresdefault.jpg)](https://www.youtube.com/watch?v=1PMnj42HxwY)
+[![watch the demo](https://img.youtube.com/vi/mHhYcOZPNXo/maxresdefault.jpg)](https://www.youtube.com/watch?v=mHhYcOZPNXo)
 
 ---
 
